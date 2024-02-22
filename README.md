@@ -25,6 +25,7 @@ As a natural problem solver, I am passionate about finding creative solutions to
 Here's a list of my published research papers:
 
 - 📈 Telecommunication Stocks Prediction Using Long Short-Term Memory Model Neural Network ([link](https://link.springer.com/chapter/10.1007/978-3-031-21750-0_26))
+- 🩸💻🌐 Efficient Blood Availability for Targeted Individuals Through Cloud Computing Web Application ([link](https://ieeexplore.ieee.org/document/10284940))
 
 
 ## Contact Me 📱
